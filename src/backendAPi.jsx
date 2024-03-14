@@ -1,3 +1,3 @@
-const backendApi = "https://heybuddy-backend-task-backend.onrender.com";
+const backendApi = "https://heybuddy-backend-task-backend-1.onrender.com";
 
 export default backendApi;
